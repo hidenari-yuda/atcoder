@@ -1,0 +1,12 @@
+{
+	"id": 47667977,
+	"epoch_second": 1700297161,
+	"problem_id": "past202012_a",
+	"contest_id": "past202012-open",
+	"user_id": "hideyuda",
+	"language": "Go (go 1.20.6)",
+	"point": 9,
+	"length": 274,
+	"result": "AC",
+	"execution_time": 1
+}
