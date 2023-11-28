@@ -38,7 +38,6 @@ jobs:
         cd ../../../.procon-gardener
         jq '.atcoder.repository_path|="."' config.json > tmp
         mv tmp config.json
-        #ここを[]ごと書き換える
         jq '.atcoder.user_id|="hideyuda"' config.json > tmp
         mv tmp config.json
         jq '.atcoder.user_email|="yhide327@gmail.com"' config.json > tmp
